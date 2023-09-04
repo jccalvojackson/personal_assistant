@@ -1,1 +1,4 @@
 outlines
+openai
+tiktoken
+transformers
